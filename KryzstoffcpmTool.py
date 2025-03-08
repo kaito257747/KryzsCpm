@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from kyrzscpm import Krystoff1
+from kryzscpm import Krystoff1
 
 __CHANNEL_USERNAME__ = "Bab4tforeal"
 __GROUP_USERNAME__   = "Bab4tforeal"
