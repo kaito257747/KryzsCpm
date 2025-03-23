@@ -11,10 +11,10 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from kryzscpm import Krystoff1
+from Carlcpm import Carlcpmtool
 
-__CHANNEL_USERNAME__ = "Bab4tforeal"
-__GROUP_USERNAME__   = "Bab4tforeal"
+__CHANNEL_USERNAME__ = Carlcpmtool"
+__GROUP_USERNAME__   = "Carlcpmtoo25"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
